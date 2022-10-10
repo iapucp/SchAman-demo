@@ -1,3 +1,6 @@
+# macOS extensions
+**/.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -152,8 +155,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# macOS extensions
-*.DS_Store
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
